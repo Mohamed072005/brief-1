@@ -104,7 +104,7 @@
 
 /* Styles for the custom cards */
 .custom-card {
-    background-color: #c1bcbc;
+    background-color: #CFCFCF;
     border: 1px solid #e1af17;
     border-radius: 4px;
     margin: 10px;
@@ -127,7 +127,7 @@
 
 .custom-card .custom-card-description {
     font-size: 16px;
-    color: #555;
+    color: #3B3B3B;
     margin-bottom: 20px;
 }
 
